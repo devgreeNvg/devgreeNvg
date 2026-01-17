@@ -35,7 +35,6 @@
 
 <ul align="left">
   <li>
-    <img src="https://media.discordapp.net/attachments/1353663322615975947/1376018690692218991/SteelPNG.png?ex=696b9785&is=696a4605&hm=985bd3e72c7ddcb381c24849c682ad833bda0c8b2620f53cb769bbb32c14a880&=&format=webp&quality=lossless&width=625&height=625" alt="Steel City logo" width="20" height="20" style="vertical-align: middle; margin-right: 5px;">
     <b>Steel City:</b> 
     <a href="https://discord.gg/d3Z2dk3wTR" target="_blank">https://discord.gg/d3Z2dk3wTR</a>
   </li>
