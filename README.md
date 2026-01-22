@@ -40,7 +40,7 @@
   </li>
     <li>
     <b>Forge Editor:</b> 
-    <a href="https://www.sa-mp.mp/" target="_blank">Coming soon</a>
+    <a href="https://editorforge.vercel.app/" target="_blank">Coming soon</a>
   </li>
 </ul>
 
