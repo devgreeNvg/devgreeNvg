@@ -36,7 +36,11 @@
 <ul align="left">
   <li>
     <b>Steel City:</b> 
-    <a href="https://discord.gg/d3Z2dk3wTR" target="_blank">https://discord.gg/d3Z2dk3wTR</a>
+    <a href="https://discord.gg/d3Z2dk3wTR" target="_blank">https://discord.gg/steelcity</a>
+  </li>
+    <li>
+    <b>Forge Editor:</b> 
+    <a href="https://www.sa-mp.mp/" target="_blank">Coming soon</a>
   </li>
 </ul>
 
