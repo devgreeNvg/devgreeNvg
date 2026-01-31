@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" height="40" alt="pawn logo"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-icon-svg-download-png-1174965.png?f=webp&w=512" height="40" alt="typescript logo"  />
+  <img src="https://imgs.search.brave.com/IuvwNNkp7aPbD2V2OnlNtajJ6LCDSER1axqW1PHondE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL1R5cGVTY3Jp/cHQuc3Zn" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
