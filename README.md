@@ -35,8 +35,8 @@
 
 <ul align="left">
   <li>
-    <b>Steel City:</b> 
-    <a href="https://discord.gg/d3Z2dk3wTR" target="_blank">https://discord.gg/steelcity</a>
+    <b>State Of Freedom:</b> 
+    <a href="https://discord.gg/d3Z2dk3wTR" target="_blank">https://discord.gg/stateoffreedom</a>
   </li>
     <li>
     <b>Forge Editor:</b> 
