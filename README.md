@@ -27,7 +27,7 @@
 
 ###
 
-<p align="center">I currently work developing servers and creating interfaces for SAMP. I am the founder and owner of Steel City, and I also work directly on web application and website development.</p>
+<p align="center">I currently work developing servers and creating interfaces for SAMP. I am the founder and owner of State Of Freedom, and I also work directly on web application and website development.</p>
 
 ###
 
