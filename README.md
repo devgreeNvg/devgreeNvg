@@ -39,8 +39,8 @@
     <a href="https://discord.gg/d3Z2dk3wTR" target="_blank">https://discord.gg/stateoffreedom</a>
   </li>
     <li>
-    <b>Forge Editor:</b> 
-    <a href="https://editorforge.vercel.app/" target="_blank">Coming soon</a>
+    <b>Color LAB:</b> 
+    <a href="https://colorlab-green.vercel.app/" target="_blank">https://colorlab.com.br/</a>
   </li>
 </ul>
 
