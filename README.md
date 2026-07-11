@@ -36,7 +36,7 @@
 <ul align="left">
   <li>
     <b>State Of Freedom:</b> 
-    <a href="https://discord.gg/d3Z2dk3wTR" target="_blank">https://discord.gg/stateoffreedom</a>
+    <a href="https://www.stateoffreedom.online" target="_blank">https://www.stateoffreedom.online</a>
   </li>
     <li>
     <b>Color LAB:</b> 
