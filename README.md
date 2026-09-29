@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./terminal-banner.svg" width="100%" alt="terminal banner"/>
+  <img height="192" src="https://media.tenor.com/krJ67JRmagkAAAAi/alien-gambit-chek.gif"  />
 </div>
-<div align="center">
 
 ###
 
