@@ -35,7 +35,7 @@
 
 <ul align="left">
   <li>
-    <b>State Of Freedom:</b> 
+    <b>State Of Freedom ( Á VENDA ):</b> 
     <a href="https://www.stateoffreedom.online" target="_blank">https://www.stateoffreedom.online</a>
   </li>
     <li>
