@@ -1,79 +1,67 @@
 <div align="center">
-  <img height="192" src="https://media.tenor.com/krJ67JRmagkAAAAi/alien-gambit-chek.gif"  />
-</div>
+  <img height="170" src="https://media.tenor.com/krJ67JRmagkAAAAi/alien-gambit-chek.gif" alt="banner" />
 
-###
+  <h1>👋 Olá, eu sou o Vitor</h1>
 
-<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Back-end+%7C+Front-end+%7C+Web;Criando+solu%C3%A7%C3%B5es+do+zero+ao+deploy" alt="typing" />
+
+  <br><br>
+
   <a href="https://www.youtube.com/@ytgreeN01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://discord.com/users/1088115654550364270" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
-###
+---
+
+## 🍃 Sobre mim
+
+Sou desenvolvedor com experiência em **servidores**, **interfaces** e **aplicações web**. Já atuei criando sistemas e interfaces para SA-MP e hoje trabalho como desenvolvedor geral, construindo sites, APIs e aplicações web com foco em código limpo, organização e boa experiência de uso.
+
+- 💻 Desenvolvimento web (front-end e back-end)
+- 🎮 Experiência com servidores e interfaces para SA-MP (Lua e Pawn)
+- 🗄️ Modelagem e uso de bancos de dados
+- 🚀 Sempre aprendendo novas tecnologias
+
+---
+
+## 🦗 Tecnologias
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devgreeNvg.devgreeNvg&"  />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,html,css,php,lua,mysql,git&perline=9" alt="tech stack" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Pawn-SA--MP-orange?style=for-the-badge" alt="Pawn" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🌱 Projetos
 
-<h1 align="center">👋🍀 Hello, I'm Vitor</h1>
+No momento não tenho projetos ativos. Novos trabalhos serão publicados aqui em breve. 🚧
 
-###
+---
 
-<p align="center">I currently work developing servers and creating interfaces for SAMP. I am the founder and owner of State Of Freedom, and I also work directly on web application and website development.</p>
+## 📊 Estatísticas
 
-###
-
-<h2 align="left">🍃 Projects</h2>
-
-<ul align="left">
-  <li>
-    <b>State Of Freedom ( Á VENDA ):</b> 
-    <a href="https://www.stateoffreedom.online" target="_blank">https://www.stateoffreedom.online</a>
-  </li>
-    <li>
-    <b>Color LAB:</b> 
-    <a href="https://colorlab-green.vercel.app/" target="_blank">https://colorlab.com.br/</a>
-  </li>
-</ul>
-
-
-###
-
-
-###
-
-<h2 align="left">🦗 My knowledge</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" height="40" alt="pawn logo"  />
-  <img width="12" />
-  <img src="https://imgs.search.brave.com/IuvwNNkp7aPbD2V2OnlNtajJ6LCDSER1axqW1PHondE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL1R5cGVTY3Jp/cHQuc3Zn" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devgreeNvg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgreeNvg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
 </div>
 
-###
+---
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://discord.com/users/1088115654550364270">
+    <img src="https://img.shields.io/badge/Fale%20comigo-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/@ytgreeN01">
+    <img src="https://img.shields.io/badge/Canal-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devgreeNvg.devgreeNvg&" alt="visitantes" />
+</div>
