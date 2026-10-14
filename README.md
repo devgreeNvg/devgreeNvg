@@ -25,30 +25,29 @@ I'm a developer who builds modern, responsive websites and web applications, and
 
 ## 🦗 Tech Stack
 
-### 💬 Languages
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp,php,lua&perline=7" alt="languages" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" alt="Pawn" height="48" />
-</div>
-
-### 🌐 Web & Frameworks
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react&perline=5" alt="web" height="48" />
-</div>
-
-### 🗄️ Databases
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2" alt="databases" height="48" />
-</div>
-
-### 🛠️ Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,figma&perline=6" alt="tools" height="48" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>💬 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp,php,lua&perline=7" alt="languages" height="48" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" alt="Pawn" height="48" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🌐 Web & Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react&perline=5" alt="web" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2" alt="databases" height="48" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🛠️ Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,figma&perline=6" alt="tools" height="48" />
+    </td>
+  </tr>
+</table>
 
 ---
 
